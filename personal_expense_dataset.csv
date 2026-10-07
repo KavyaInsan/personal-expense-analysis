@@ -1,0 +1,102 @@
+Date,Category,Description,Amount,Payment_Mode
+2026-01-02,Travel,Auto,516.8,UPI
+2026-01-03,Travel,Cab,524.2,UPI
+2026-01-03,Education,Printing,882.3,UPI
+2026-01-05,Bills,Hostel Bill,323.92,Credit Card
+2026-01-07,Bills,Hostel Bill,606.28,UPI
+2026-01-08,Food,Food Delivery,772.8,UPI
+2026-01-10,Shopping,Stationery,3126.05,UPI
+2026-01-14,Health,Doctor,755.21,
+2026-01-15,Travel,Cab,483.66,Credit Card
+2026-01-15,Education,Printing,208.55,UPI
+2026-01-16,Education,Course,163.63,Cash
+2026-01-21,Food,Cafe,329.48,UPI
+2026-01-21,Shopping,Clothes,2103.78,UPI
+2026-01-23,Health,Medicine,1270.45,UPI
+2026-02-01,Entertainment,Streaming,918.24,UPI
+2026-02-03,Bills,Mobile Recharge,1503.4,UPI
+2026-02-05,Education,Course,700.04,Cash
+2026-02-05,Entertainment,Games,287.78,Debit Card
+2026-02-06,Bills,Subscription,1029.44,Debit Card
+2026-02-06,Bills,Electricity,536.85,UPI
+2026-02-07,Food,Food Delivery,598.49,Cash
+2026-02-10,Entertainment,Events,1473.63,UPI
+2026-02-10,Health,Health Checkup,1567.28,Cash
+2026-02-13,Bills,Internet Bill,960.06,Credit Card
+2026-02-17,Travel,Metro,886.34,Cash
+2026-02-18, food ,Online Shopping,2219.11,UPI
+2026-02-20,Shopping,Stationery,1686.65,UPI
+2026-02-21,Education,College Supplies,1283.26,UPI
+2026-02-23,Entertainment,Concert,1684.53,UPI
+2026-02-23,Bills,Electricity,410.47,UPI
+2026-02-23,Shopping,Accessories,2073.41,UPI
+2026-02-27,Travel,Auto,75.38,UPI
+2026-03-01,Bills,Mobile Recharge,645.8,UPI
+2026-03-02,Food,Restaurant,549.04,Debit Card
+2026-03-03,Entertainment,Movies,324.07,UPI
+2026-03-06,Travel,Fuel,314.55,Credit Card
+2026-03-10,Health,Personal Care,813.32,UPI
+2026-03-12,Health,Pharmacy,1281.13,Debit Card
+2026-03-15,Health,Pharmacy,432.84,UPI
+2026-03-16,Education,Books,487.91,Debit Card
+2026-03-16,Shopping,Online Shopping,3058.38,Cash
+2026-03-22,Food,Snacks,229.43,Debit Card
+2026-03-22,Bills,Electricity,1769.86,Cash
+2026-03-23,Travel,Metro,720.63,Credit Card
+2026-03-23,Food,Groceries,647.35,Cash
+2026-03-25,Food,Restaurant,345.96,UPI
+2026-03-26,Bills,Subscription,505.06,UPI
+2026-03-27,Travel,Bus,436.58,UPI
+2026-03-29,Health,Medicine,437.82,UPI
+2026-04-01,Entertainment,Concert,1645.48,UPI
+2026-04-02,Food,Snacks,180.07,UPI
+2026-04-02,Travel,Auto,131.01,UPI
+2026-04-03,Travel,Cab,944.44,Cash
+2026-04-04,Food,Restaurant,602.69,Cash
+2026-04-04,Food,Snacks,223.77,UPI
+2026-04-05,Entertainment,Streaming,1767.55,UPI
+2026-04-11,Entertainment,Movies,1088.06,Cash
+2026-04-11,Bills,Electricity,1709.61,Cash
+2026-04-13,Bills,Electricity,1221.6,UPI
+2026-04-14,Travel,Bus,198.48,Cash
+2026-04-15,Bills,Mobile Recharge,1245.37,UPI
+2026-04-15,Bills,Subscription,1570.43,UPI
+2026-04-18,Bills,Hostel Bill,1087.39,Debit Card
+2026-04-22,Entertainment,Movies,1244.78,UPI
+2026-04-23,Education,Books,709.4,UPI
+2026-04-25,Food,Food Delivery,479.13,Credit Card
+2026-04-30,Health,Health Checkup,810.51,Credit Card
+2026-05-04,Bills,Mobile Recharge,2103.8,UPI
+2026-05-04,Health,Doctor,649.03,Debit Card
+2026-05-08,Education,College Supplies,1678.27,Cash
+2026-05-08,Education,Course,2110.5,Cash
+2026-05-09,Travel,Cab,829.62,UPI
+2026-05-09,Travel,Bus,791.32,UPI
+2026-05-10,Food,Food Delivery,157.44,Cash
+2026-05-11,Education,Books,455.41,Credit Card
+2026-05-11,Education,Printing,2229.01,Debit Card
+2026-05-15,Bills,Mobile Recharge,1437.18,UPI
+2026-05-20,Food,Cafe,534.04,UPI
+2026-05-21,Travel,Cab,155.98,UPI
+2026-05-22,Health,Doctor,850.6,Debit Card
+2026-05-24,Health,Medicine,292.89,Credit Card
+2026-05-24,Food,Snacks,807.03,UPI
+2026-05-24,Entertainment,Movies,398.68,UPI
+2026-05-26,Travel,Fuel,838.11,Debit Card
+2026-05-27,Food,Groceries,490.85,UPI
+2026-05-27,Education,Printing,1648.41,UPI
+2026-05-27,Health,Health Checkup,703.34,Credit Card
+2026-05-30,Education,Study Material,2427.78,Debit Card
+2026-05-31,Bills,Hostel Bill,1256.67,UPI
+2026-06-01,Health,Health Checkup,759.89,Cash
+2026-06-09,Travel,Bus,407.63,UPI
+2026-06-09,Shopping,Shoes,466.82,UPI
+2026-06-10,Food,Snacks,274.54,UPI
+2026-06-19,Entertainment,Concert,1486.69,Debit Card
+2026-06-21,Food,Restaurant,345.03,UPI
+2026-06-21,Food,Snacks,465.35,UPI
+2026-06-24,Food,Groceries,288.41,UPI
+2026-06-27,Education,Course,719.06,Cash
+2026-06-28,Food,Cafe,337.77,UPI
+2026-06-28,Shopping,Online Shopping,3306.83,UPI
+2026-01-21,Shopping,Clothes,2103.78,UPI
